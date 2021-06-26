@@ -1,0 +1,2 @@
+com/easy/archiecture/ApplicationTests.java
+ com.easy.archiecture.ApplicationTests

@@ -1,0 +1,23 @@
+#demo:
+#  user:
+#    id: '111'
+#    name: 'aaa'
+#  number:
+#    value1: ${random.int}
+#    value2: ${random.long}
+#    value3: ${random.uuid}
+#
+#spring:
+#  profiles:
+#    active: dev
+spring:
+  application:
+    name: dubbo-demo-provider
+dubbo:
+  scan:
+    base-packages: com.easy.archiecture.service
+  protocol:
+    name: dubbo
+    port: 1111
+  registry:
+    address: N/A

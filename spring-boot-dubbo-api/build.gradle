@@ -1,0 +1,8 @@
+
+//apply plugin: 'org.springframework.boot'
+
+dependencies {
+//    compile("org.springframework.boot:spring-boot-starter-web:${spring_boot_version}")
+//    compile("org.apache.dubbo:dubbo:${dubbo_version}")
+//    compile("org.apache.dubbo:dubbo-spring-boot-starter:${dubbo_version}")
+}

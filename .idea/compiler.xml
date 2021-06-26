@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.8/448003bc1b234aac04b58e27d7755c12c3ec4236/lombok-1.18.8.jar" />
+        </processorPath>
+        <module name="spring-boot-gradle.spring-boot-dubbo-provider.test" />
+        <module name="spring-boot-gradle.spring-boot-druid.main" />
+        <module name="spring-boot-gradle.spring-boot-kafka-producer.test" />
+        <module name="spring-boot-gradle.spring-boot-redis.main" />
+        <module name="spring-boot-gradle.spring-boot-mongodb.test" />
+        <module name="spring-boot-gradle.spring-boot-jpa.test" />
+        <module name="spring-boot-gradle.spring-boot-schedule.main" />
+        <module name="spring-boot-gradle.spring-boot-dubbo-consumer.test" />
+        <module name="spring-boot-gradle.first-spring-boot.main" />
+        <module name="spring-boot-gradle.spring-boot-kafka-comsumer.test" />
+        <module name="spring-boot-gradle.spring-boot-swagger.main" />
+        <module name="spring-boot-gradle.spring-boot-dubbo-provider.main" />
+        <module name="spring-boot-gradle.spring-boot-kafka-producer.main" />
+        <module name="spring-boot-gradle.spring-boot-mongodb.main" />
+        <module name="spring-boot-gradle.spring-boot-redis.test" />
+        <module name="spring-boot-gradle.spring-boot-jpa.main" />
+        <module name="spring-boot-gradle.spring-boot-jdbc.test" />
+        <module name="spring-boot-gradle.spring-boot-dubbo-api.test" />
+        <module name="spring-boot-gradle.spring-boot-mybatis.test" />
+        <module name="spring-boot-gradle.spring-boot-dubbo-consumer.main" />
+        <module name="spring-boot-gradle.spring-boot-mail.test" />
+        <module name="spring-boot-gradle.spring-boot-druid.test" />
+        <module name="spring-boot-gradle.spring-boot-kafka-comsumer.main" />
+        <module name="spring-boot-gradle.spring-boot-schedule.test" />
+        <module name="spring-boot-gradle.first-spring-boot.test" />
+        <module name="spring-boot-gradle.spring-boot-jdbc.main" />
+        <module name="spring-boot-gradle.spring-boot-dubbo-api.main" />
+        <module name="spring-boot-gradle.spring-boot-mybatis.main" />
+        <module name="spring-boot-gradle.spring-boot-mail.main" />
+        <module name="spring-boot-gradle.spring-boot-swagger.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-gradle.main" target="1.8" />
+      <module name="spring-boot-gradle.spring-boot-demo.main" target="1.8" />
+      <module name="spring-boot-gradle.spring-boot-demo.test" target="1.8" />
+      <module name="spring-boot-gradle.spring-boot-monitor-server.main" target="1.8" />
+      <module name="spring-boot-gradle.spring-boot-monitor-server.test" target="1.8" />
+      <module name="spring-boot-gradle.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

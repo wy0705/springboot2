@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="065a6447-8f0f-46d5-9db6-c3cb8489c159" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="270" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/first-spring-boot">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-dubbo-provider">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-dubbo-consumer">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-swagger">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-mongodb">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/spring-boot-monitor-server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build setup" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="documentation" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="help" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring-boot-gradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.6.3-bin/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dfNAmqJqfQAuCZsMdoUEubKSDU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.easy.archiecture" />
+      <recent name="archiecture" />
+      <recent name="com.easy.archiecture.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/first-spring-boot/src/main/resources/static/img" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spring-boot-swagger/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring-boot-druid/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.ApplicationTests.test">
+    <configuration name="ApplicationTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.easy.archiecture.ApplicationTests&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-redis:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationTests.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.easy.archiecture.ApplicationTests.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-jdbc:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'spring-boot-gradle.first-spring-boot'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":first-spring-boot:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'spring-boot-gradle.spring-boot-jdbc'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":spring-boot-jdbc:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-gradle.first-spring-boot.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.easy.archiecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-gradle.spring-boot-druid.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.easy.archiecture.DruidDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Tests in 'spring-boot-gradle.first-spring-boot'" />
+      <item itemvalue="Gradle.Tests in 'spring-boot-gradle.spring-boot-jdbc'" />
+      <item itemvalue="Gradle.ApplicationTests" />
+      <item itemvalue="Gradle.ApplicationTests.test" />
+      <item itemvalue="Spring Boot.DruidDemoApplication" />
+      <item itemvalue="Spring Boot.Application (2)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.ApplicationTests.test" />
+        <item itemvalue="Gradle.ApplicationTests" />
+        <item itemvalue="Gradle.ApplicationTests" />
+        <item itemvalue="Gradle.Tests in 'spring-boot-gradle.spring-boot-jdbc'" />
+        <item itemvalue="Spring Boot.Application (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="065a6447-8f0f-46d5-9db6-c3cb8489c159" name="Default Changelist" comment="" />
+      <created>1592812046067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592812046067</updated>
+      <workItem from="1592812048777" duration="3712000" />
+      <workItem from="1592831506392" duration="7254000" />
+      <workItem from="1592923345598" duration="362000" />
+      <workItem from="1592924808406" duration="2365000" />
+      <workItem from="1593329319651" duration="5210000" />
+      <workItem from="1593698513932" duration="3727000" />
+      <workItem from="1593741181835" duration="21000" />
+      <workItem from="1593790891240" duration="3268000" />
+      <workItem from="1593828453253" duration="6470000" />
+      <workItem from="1594564862860" duration="2844000" />
+      <workItem from="1594868507485" duration="196000" />
+      <workItem from="1595495365898" duration="1347000" />
+      <workItem from="1595862172080" duration="3747000" />
+      <workItem from="1595952316315" duration="2602000" />
+      <workItem from="1596037568254" duration="1674000" />
+      <workItem from="1596269065962" duration="9524000" />
+      <workItem from="1596332665201" duration="1068000" />
+      <workItem from="1596334146321" duration="355000" />
+      <workItem from="1596380584500" duration="3888000" />
+      <workItem from="1596466316008" duration="3555000" />
+      <workItem from="1596558035838" duration="599000" />
+      <workItem from="1596643634170" duration="719000" />
+      <workItem from="1596813070510" duration="1247000" />
+      <workItem from="1596851391700" duration="114000" />
+      <workItem from="1596877046424" duration="37000" />
+      <workItem from="1602336752102" duration="144000" />
+      <workItem from="1602339784309" duration="630000" />
+      <workItem from="1602995609806" duration="10274000" />
+      <workItem from="1603463259063" duration="1229000" />
+      <workItem from="1603525164440" duration="2147000" />
+      <workItem from="1603542262757" duration="5953000" />
+      <workItem from="1603589155544" duration="13960000" />
+      <workItem from="1603729291046" duration="40000" />
+      <workItem from="1604811042973" duration="681000" />
+      <workItem from="1605021444761" duration="659000" />
+      <workItem from="1605287306778" duration="28000" />
+      <workItem from="1605287989582" duration="459000" />
+      <workItem from="1605359368696" duration="599000" />
+      <workItem from="1605364568849" duration="886000" />
+      <workItem from="1605365542823" duration="6057000" />
+      <workItem from="1605401556015" duration="16879000" />
+      <workItem from="1605755846978" duration="9646000" />
+      <workItem from="1605836444600" duration="3098000" />
+      <workItem from="1605859239192" duration="2272000" />
+      <workItem from="1605870490949" duration="1992000" />
+      <workItem from="1606709551292" duration="1270000" />
+      <workItem from="1618420084443" duration="10000" />
+      <workItem from="1619278773500" duration="11000" />
+      <workItem from="1623154198246" duration="62000" />
+      <workItem from="1624535506162" duration="1000000" />
+      <workItem from="1624593629686" duration="1366000" />
+      <workItem from="1624610593106" duration="13706000" />
+      <workItem from="1624674812915" duration="2047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="91" width="1024" height="841" key="#Project_Structure" timestamp="1624624087884">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state x="0" y="91" width="1024" height="841" key="#Project_Structure/0.27.1920.974@0.27.1920.974" timestamp="1624624087884" />
+    <state x="418" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624619885930">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state x="418" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.974@0.27.1920.974" timestamp="1624619885930" />
+    <state x="100" y="127" width="1720" height="774" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1624620353597">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state x="100" y="127" width="1720" height="774" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.27.1920.974@0.27.1920.974" timestamp="1624620353597" />
+    <state width="1866" height="296" key="GridCell.Tab.0.bottom" timestamp="1624674944678">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="1866" height="296" key="GridCell.Tab.0.bottom/0.27.1920.974@0.27.1920.974" timestamp="1624674944678" />
+    <state width="1866" height="296" key="GridCell.Tab.0.center" timestamp="1624674944678">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="1866" height="296" key="GridCell.Tab.0.center/0.27.1920.974@0.27.1920.974" timestamp="1624674944678" />
+    <state width="1866" height="296" key="GridCell.Tab.0.left" timestamp="1624674944677">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="1866" height="296" key="GridCell.Tab.0.left/0.27.1920.974@0.27.1920.974" timestamp="1624674944677" />
+    <state width="1866" height="296" key="GridCell.Tab.0.right" timestamp="1624674944678">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="1866" height="296" key="GridCell.Tab.0.right/0.27.1920.974@0.27.1920.974" timestamp="1624674944678" />
+    <state width="864" height="298" key="GridCell.Tab.1.bottom" timestamp="1624623283815">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="864" height="298" key="GridCell.Tab.1.bottom/0.27.1920.974@0.27.1920.974" timestamp="1624623283815" />
+    <state width="864" height="298" key="GridCell.Tab.1.center" timestamp="1624623283815">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="864" height="298" key="GridCell.Tab.1.center/0.27.1920.974@0.27.1920.974" timestamp="1624623283815" />
+    <state width="864" height="298" key="GridCell.Tab.1.left" timestamp="1624623283814">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="864" height="298" key="GridCell.Tab.1.left/0.27.1920.974@0.27.1920.974" timestamp="1624623283814" />
+    <state width="864" height="298" key="GridCell.Tab.1.right" timestamp="1624623283815">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state width="864" height="298" key="GridCell.Tab.1.right/0.27.1920.974@0.27.1920.974" timestamp="1624623283815" />
+    <state x="441" y="149" width="1239" height="730" key="SettingsEditor" timestamp="1624675098142">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state x="441" y="149" width="1239" height="730" key="SettingsEditor/0.27.1920.974@0.27.1920.974" timestamp="1624675098142" />
+    <state x="65" y="204" width="1436" height="598" key="new project wizard" timestamp="1624626211298">
+      <screen x="0" y="27" width="1920" height="974" />
+    </state>
+    <state x="65" y="204" width="1436" height="598" key="new project wizard/0.27.1920.974@0.27.1920.974" timestamp="1624626211298" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/spring_boot_gradle$ApplicationTests_test.ic" NAME="ApplicationTests.test Coverage Results" MODIFIED="1603542768663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

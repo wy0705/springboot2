@@ -1,0 +1,8 @@
+com/easy/archiecture/entity/User.java
+ com.easy.archiecture.entity.User
+com/easy/archiecture/entity/TestEnum.java
+ com.easy.archiecture.entity.TestEnum
+com/easy/archiecture/Application.java
+ com.easy.archiecture.Application
+com/easy/archiecture/config/RedisConfig.java
+ com.easy.archiecture.config.RedisConfig

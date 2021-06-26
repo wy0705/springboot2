@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="/opt/gradle-5.6.4-all/gradle-5.6.4" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/first-spring-boot" />
+            <option value="$PROJECT_DIR$/spring-boot-druid" />
+            <option value="$PROJECT_DIR$/spring-boot-dubbo-api" />
+            <option value="$PROJECT_DIR$/spring-boot-dubbo-consumer" />
+            <option value="$PROJECT_DIR$/spring-boot-dubbo-provider" />
+            <option value="$PROJECT_DIR$/spring-boot-jdbc" />
+            <option value="$PROJECT_DIR$/spring-boot-jpa" />
+            <option value="$PROJECT_DIR$/spring-boot-kafka-comsumer" />
+            <option value="$PROJECT_DIR$/spring-boot-kafka-producer" />
+            <option value="$PROJECT_DIR$/spring-boot-mail" />
+            <option value="$PROJECT_DIR$/spring-boot-mongodb" />
+            <option value="$PROJECT_DIR$/spring-boot-mybatis" />
+            <option value="$PROJECT_DIR$/spring-boot-redis" />
+            <option value="$PROJECT_DIR$/spring-boot-schedule" />
+            <option value="$PROJECT_DIR$/spring-boot-swagger" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

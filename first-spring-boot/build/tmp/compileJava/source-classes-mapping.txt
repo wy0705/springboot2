@@ -1,0 +1,10 @@
+com/easy/archiecture/controller/HelloController.java
+ com.easy.archiecture.controller.HelloController
+com/easy/archiecture/controller/DemoController.java
+ com.easy.archiecture.controller.DemoController
+com/easy/archiecture/entity/Demo.java
+ com.easy.archiecture.entity.Demo
+com/easy/archiecture/Application.java
+ com.easy.archiecture.Application
+com/easy/archiecture/entity/DemoProperties.java
+ com.easy.archiecture.entity.DemoProperties
